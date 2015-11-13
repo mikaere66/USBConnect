@@ -1,0 +1,3 @@
+# USB Connect
+Requires root!
+This project was created after I updated my Samsung Galaxy Express II to CyanogenMod 11, and was shocked to find that I could only connect my phone to the PC using either MTP or PTP. Because I run a script that syncs my music between PC and phone, I needed to mount the SD card and give it a drive letter. I found a hack online that required running two commands in the Android terminal emulator. Although I did create a bash script on the phone for that purpose, I found this to be rather tiresome, to say the least, so I wrote this little beauty to do that same job, but with a fancy interface =)
